@@ -40,3 +40,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shlok-vertex&show_icons=true&locale=en" alt="shlok-vertex" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shlok-vertex&" alt="shlok-vertex" /></p>
+
+
+
+## Watch snake eating my github contributions. 
+
+![snake gif](https://github.com/Shlok-Vertex/Shlok-Vertex/blob/output/github-contribution-grid-snake.svg)
+
