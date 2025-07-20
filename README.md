@@ -42,6 +42,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shlok-vertex&" alt="shlok-vertex" /></p>
 
 
+![](https://leetcard.jacoblin.cool/Shlok_srivastava?theme=unicorn)
+![](https://leetcard.jacoblin.cool/Shlok_srivastava?ext=heatmap)
 
 ## Watch snake eating my github contributions. 
 
