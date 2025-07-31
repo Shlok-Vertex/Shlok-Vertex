@@ -41,8 +41,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shlok-vertex&" alt="shlok-vertex" /></p>
 
+<p>
+  <a href="https://leetcode.com/u/Shlok_srivastava/">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Shlok_srivastava&theme=dark&border=border&animated=true" alt="LeetCode Badges" />
+  </a>
+</p>
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=Shlok_srivastava&theme=dark&border=border&animated=true" alt="LeetCode Badges" />
 
 
 ![](https://leetcard.jacoblin.cool/Shlok_srivastava?theme=unicorn) 
