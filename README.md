@@ -3,9 +3,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&vCenter=true&multiline=true&repeat=loop&width=650&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Shlok+Srivastava;CSE+Student+from+India+%F0%9F%87%AE%F0%9F%87%B3;Full-Stack+Web+Developer+%F0%9F%92%BB;Problem+Solver+%E2%9C%8C%EF%B8%8F;Always+Learning+New+Tech+%F0%9F%93%96" alt="Typing Header">
 </h1>
 
+
 ---
-
-
 
 ### 📈 My GitHub Activity
 
@@ -23,24 +22,17 @@
 ## 🧠 LeetCode Performance
 
 <div align="center">
-  <!-- Animated LeetCode badge -->
-  <a href="https://leetcode.com/u/Shlok_srivastava/">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Shlok_srivastava&theme=dark&border=border&animated=true" alt="LeetCode Badges" width="400"/>
+
+  <!-- LeetCode Profile Card (RELIABLE) -->
+  <a href="https://leetcode.com/Shlok_srivastava/" target="_blank">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Shlok_srivastava&theme=dark&border=border&animated=true" width="450" />
   </a>
-</div>
 
-<br/>
+  <br><br>
 
-<div align="center">
-  <!-- LeetCode Profile Card -->
-  <img src="https://leetcard.jacoblin.cool/Shlok_srivastava?theme=unicorn&font=baloo&animation=true&ext=contest" width="90%" />
-</div>
-
-<br/>
-
-<div align="center">
   <!-- LeetCode Heatmap -->
-  <img src="https://leetcard.jacoblin.cool/Shlok_srivastava?ext=heatmap&theme=light&animation=true" width="90%" />
+  <img src="https://leetcard.jacoblin.cool/Shlok_srivastava?ext=heatmap&theme=light&animation=true" width="80%" />
+
 </div>
 
 ---
@@ -76,4 +68,4 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
-</p> . All okay but adjust all code 
+</p>
