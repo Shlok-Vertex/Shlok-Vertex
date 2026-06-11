@@ -1,4 +1,4 @@
-<!-- Enhanced Typing Animation Header -->
+<!-- Enhanced Typing Animation Header --> 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&vCenter=true&multiline=true&repeat=loop&width=650&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Shlok+Srivastava;CSE+Student+from+India+%F0%9F%87%AE%F0%9F%87%B3;Full-Stack+Web+Developer+%F0%9F%92%BB;Problem+Solver+%E2%9C%8C%EF%B8%8F;Always+Learning+New+Tech+%F0%9F%93%96" alt="Typing Header">
 </h1>
